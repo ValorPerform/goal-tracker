@@ -2,5 +2,8 @@
 
 .app {
   margin-top: 50px;
-  padding: 10px;
+
+  .app-content {
+    padding: 10px;
+  }
 }
