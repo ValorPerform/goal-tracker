@@ -31,5 +31,10 @@ Then run the dev server:
 
 Once all of this is done, the application should be running on `localhost:9000`
 
+## What's Included
+- React
+- [Bulma](https://bulma.io/documentation) (for CSS, feel free to change this if your prefer something else)
+- SASS support
+
 ## Submitting Your Work
 When you are done, push your branch and open a [pull request](https://github.com/ValorPerform/goal-tracker/pulls).
